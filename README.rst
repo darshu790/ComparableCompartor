@@ -1,5 +1,5 @@
 .. list-table::
-   :widths: 25 25 50
+
 
  * - Annotation Problem
    -
