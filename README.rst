@@ -19,3 +19,12 @@
      JavaScript problems* or *JS input problems*) allow you to create a
      custom problem or tool that uses JavaScript and then add the problem or
      tool directly into Studio.
+
+
+.. note::
+   This is note text. If note text runs over a line, make sure the lines wrap
+   and are indented to the same level as the note tag. If formatting is
+   incorrect, part of the note might not render in the HTML output.
+
+   Notes can have more than one paragraph. Successive paragraphs must indent
+   to the same level as the rest of the note.
