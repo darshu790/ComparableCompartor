@@ -28,3 +28,7 @@
 
    Notes can have more than one paragraph. Successive paragraphs must indent
    to the same level as the rest of the note.
+
+.. warning::
+   Warnings are formatted in the same way as notes. In the same way, lines
+   must be broken and indented under the warning tag.
